@@ -1,3 +1,3 @@
-# Ola mundo
- primeiro repositório do curso Git e Github
-Brenno Gomes Araujo
+# Imersão Dev com Gemini
+ Curso da imersão Dev com o Google Germini;
+ Brenno Gomes Araujo
